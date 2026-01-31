@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi my name is Alexandra
+### Aspiring Junior Frontend Developer
+### I'm interested in web development
+### I work with HTML, CSS, JavaScript, TypeScript
+
 
 <!--
 **Redkova/Redkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
