@@ -1,7 +1,7 @@
 ## Hello, I'm Alexandra 👋🏻 
 ### Aspiring Junior Frontend Developer 👩🏻‍💻
 ### Passionate about web development 🌐
-### I have experience building web applications using HTML, CSS, JavaScript, TypeScript, and React, with a focus on creating reusable components, integrating APIs, managing application state, and developing responsive user interfaces🛠
+I have experience building web applications using HTML, CSS, JavaScript, TypeScript, and React, with a focus on creating reusable components, integrating APIs, managing application state, and developing responsive user interfaces 🛠
 
 
 <!--
